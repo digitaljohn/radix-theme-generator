@@ -85,7 +85,7 @@ describe("Basic functionality", () => {
 
   it("should generate background value", async () => {
     const result = generateRadixColors({
-      appearance: "light",
+      appearance: "dark",
       accent: accentValue,
       gray: grayValue,
       background: darkBgValue,
