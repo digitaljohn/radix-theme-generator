@@ -1,0 +1,11 @@
+node_modules
+coverage
+*.log
+dist
+.cache
+lib
+!src/*
+!test/*
+.idea
+.DS_Store
+test/cli/styles.ts
